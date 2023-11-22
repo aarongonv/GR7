@@ -3,3 +3,10 @@ text-align: center;
 color: aqua;
 background-color:yellowgreen;
 }
+
+p{
+text-align: center;
+color: blue;
+background-color: violet;
+text-decoration: dotted;
+}
